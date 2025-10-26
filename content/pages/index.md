@@ -7,7 +7,9 @@ sections:
       text: Pixels Heart
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      My passion range from Game Dev and Coding to Visual Effects and Video
+      Editing.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a

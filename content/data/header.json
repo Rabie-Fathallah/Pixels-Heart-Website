@@ -74,16 +74,6 @@
     "secondaryLinks": [
         {
             "type": "Link",
-            "altText": "GitHub",
-            "url": "/",
-            "showIcon": true,
-            "icon": "github",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "YouTube",
             "altText": "YouTube",
             "url": "/",

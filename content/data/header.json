@@ -88,9 +88,19 @@
             "label": "LinkedIn",
             "altText": "LinkedIn",
             "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Button"
+        },
+        {
+            "type": "Link",
+            "label": "Send email",
+            "altText": "Play",
+            "url": "/",
             "showIcon": true,
-            "icon": "linkedin",
-            "iconPosition": "left",
+            "icon": "mail",
+            "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
         }

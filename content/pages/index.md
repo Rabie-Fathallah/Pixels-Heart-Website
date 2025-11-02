@@ -41,6 +41,7 @@ sections:
       styles:
         self:
           borderWidth: 2
+          borderStyle: dashed
     badge:
       label: This is a badge
       color: text-primary

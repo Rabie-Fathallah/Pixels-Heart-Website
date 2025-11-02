@@ -81,6 +81,17 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "YouTube",
+            "altText": "YouTube",
+            "url": "/",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",
